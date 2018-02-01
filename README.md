@@ -1,1 +1,1 @@
-This is my emacs configuration tree。 I copy the emacs configuration of Steve Purcell。I done some changes.For example,I use Helm。  
+This is my emacs configuration tree. I copy the emacs configuration of Steve Purcell.I done some changes.For example,I use Helm.  
